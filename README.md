@@ -14,4 +14,4 @@ Here are the technologies I work with:
 I am currently focusing on Full-stack development patterns and improving my skills in modern web architecture.
 
 ---
-[LinkedIn](seu-link-aqui)
+[LinkedIn](https://www.linkedin.com/in/daniel-benevenuto-aires-moletta-a8a469266/)
