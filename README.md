@@ -21,7 +21,13 @@ I'm a **Software Engineering Student** at **UNISenaiPR** (Brazil), passionate ab
 </div>
 
 ### 🎯 Current Goals
-I am currently focusing on Full-stack development patterns and improving my skills in modern web architecture.
+I am currently aiming to hone up my C# skills
+
+Learning more about mobile Frameworks
+
+Uptdating my portfolio
+
+Creating a Web/Mobile aplication to assist in inventory managment and have a built-in sales assistant
 
 ---
 [LinkedIn](https://www.linkedin.com/in/daniel-benevenuto-aires-moletta-a8a469266/)
